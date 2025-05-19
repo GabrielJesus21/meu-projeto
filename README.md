@@ -1,0 +1,2 @@
+Nome: Gabriel
+Curso: Python
